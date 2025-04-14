@@ -1,11 +1,11 @@
-This repository contains a collection of Power BI projects, showcasing data visualization, business intelligence, and analytical insights. Each project leverages interactive dashboards, data modeling, and DAX calculations to transform raw data into meaningful insights.
+This repository features a collection of Power BI projects, each designed to demonstrate data visualization, business intelligence, and analytical insights. The projects make use of **_data modeling_**, **_DAX calculations_**, and **_interactive dashboards_** to convert raw data into actionable insights.
 
-What You'll Find Here
+Each project file includes .pbix files, data sources, and comprehensive documentation to guide you through the analytical approach.
 
-Data Integration 🔗– Connecting to various data sources and performing ETL transformations.
+Project Previews:
 
-Data Analysis & Insights 📈 – Exploratory analysis using Power Query, DAX, and visual storytelling.
+📊 **Portfolio Analytics**: Builds an interactive dashboard to analyze portfolio performance, featuring Brinson attribution, key rate duration analysis, risk metrics, and scenario analysis for deeper investment insights.
 
-Interactive Dashboards 📊 – Dynamic reports with drill-through, slicers, and filters.
+💰 **Bank Loan Insights**: Visualizes KPIs to assess lending efficiency and loan performance. Enables users to explore the loan portfolio based on various loan features and borrower characteristics.
 
-Each project includes .pbix files, data sources (where applicable), and documentation to help you explore and understand the analytical approach.
+🏠 **Housing Market Dashboard**: Visualizes housing market data in Austin, Texas, allowing users to filter properties based on preferred criteria. Offers an intuitive overview of market trends and property availability.
